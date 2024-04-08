@@ -112,5 +112,3 @@ This road map provides an overview of essential topics in computer science theor
     - A fun and educational YouTube channel covering a variety of computer science topics.
   - [CS50](https://www.youtube.com/c/cs50)
     - Harvard's CS50 lectures, covering an introduction to computer science.
-
----
