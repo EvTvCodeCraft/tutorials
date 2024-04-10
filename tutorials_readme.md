@@ -244,8 +244,6 @@ Welcome to the Tutorials section of CodeCraft! In this section, we provide compr
 - **Example:**
   - Building a basic backend server and connecting it to a database with associated unit tests.
 
-## ... (and more sections based on the topics you cover)
-
 ...
 
 ## Contribute Tutorials
