@@ -32,12 +32,9 @@ To begin exploring AI Core Concepts, follow these steps:
 
 This repository covers a variety of fundamental topics related to AI, including:
 
-- Introduction to AI
-- Machine Learning Basics
 - Neural Networks
 - Reinforcement Learning
 - Natural Language Processing
-- Computer Vision
 - Genetic Algorithms
 - Fuzzy Logic
 - Logic Programming
