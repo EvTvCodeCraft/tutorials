@@ -256,4 +256,4 @@ Special thanks to the contributors and the wider programming community for shari
 
 ---
 
-[Visit CodeCraft on YouTube](https://www.youtube.com/@CodeCraft-ll5nz/featured)
+[🎥 Visit our YouTube channel for video tutorials](https://www.youtube.com/@CodeCraft-ll5nz/featured)
